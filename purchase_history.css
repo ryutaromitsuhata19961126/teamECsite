@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body {
+	margin:0 auto;
+	background-color:whitesmoke;
+	padding-bottom:10%;
+}
+
+h2 {
+	text-align:center;
+}
+
+.hidden {
+    display: none;
+}
+
+.history_box {
+	margin:2% auto;
+	padding-bottom:30px;
+	border:inset;
+	width:70%;
+	background-color:white;
+	border-radius:15px;
+}
+
+.info {
+	text-align:center;
+}
+
+table {
+	border:outset;
+	border-collapse:collapse;
+	width:70%;
+	margin:0 auto;
+	padding-bottom:10%;
+}
+
+th,td {
+	border: solid 1px gray;
+	white-space: nowrap;
+	text-align:center;
+}
+
+th {
+	background-color:gainsboro;
+	color:black;
+}
+
+td {
+	background-color:whitesmoke;
+}
+
+.buttonArea {
+	text-align:right;
+	margin-right:15%;
+	margin-top:1%;	
+}
